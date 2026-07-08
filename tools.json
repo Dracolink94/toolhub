@@ -4,7 +4,7 @@
       "name": "Downloader Universel",
       "description": "Télécharge des vidéos YouTube ou des fichiers bruts (CDN, Github).",
       "filename": "downloader.py",
-      "download_url": ""
+      "download_url": "https://raw.githubusercontent.com/Dracolink94/toolhub/refs/heads/main/dl.py"
     }
   ]
 }
